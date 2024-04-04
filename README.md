@@ -2,8 +2,6 @@
   <img src="./.github/logo-unite.svg" width="150" alt="Rocketseat NLW Unite" />
 </div>
 
-<br/>
-
 <h1 align="center">Rocketseat NLW Unite – Node.js</h1>
 
 <p align="center">
